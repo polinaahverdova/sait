@@ -1,0 +1,61 @@
+<HTML>
+<HEAD>
+<TITLE>Художественная гимнастика</TITLE>
+</HEAD>
+<BODY>
+<P><H1 ALIGN="CENTER">Художественная гимнастика</H1></P>
+<P ALIGN="CENTER"> <IMG SRC="гимнастика.JPG"  HEIGHT="330" WIDTH="600"> </P>
+<P ALIGN="CENTER"><FONT FACE="CENTURY GOTHIC"> <U><FONT COLOR="#FF0000" SIZE="4">Художественная гимнастика </FONT></U> является олимпийским видом спорта.
+Выступления могут проходить с предметами или без, но в последнее время на соревнованиях мирового класса выступления без предмета не проводятся. В групповых упражнениях одновременно должны использоваться один или два вида предметов. Все упражнения идут под фонограмму. Выбор музыки целиком зависит от пожеланий гимнастки и тренера. Но каждое упражнение должно быть длительностью от 75 до 90 секунд. Соревнования по художественной гимнастике проходят на гимнастическом ковре размером 13х13 метров.</FONT></P> 
+<ul>
+<FONT FACE="CENTURY GOTHIC">Выступления по художественной гимнастике оцениваются по двадцатибалльной системе. Оценивают выступления три бригады судей: 
+  <li>Трудность <FONT COLOR="#0000ff">(D)</font> оценивают две подгруппы судей — <FONT COLOR="#0000ff">D1</font>(2 судьи, оценивают технику исполнения) и <FONT COLOR="#0000ff">D2</font> (2 судьи, оценивают технику работы с предметом). При подсчёте оценки учитывается среднее арифметическое бригад <FONT COLOR="#0000ff">D1</font> и <FONT COLOR="#0000ff">D2</font> .</li>
+  <li>Артистизм и хореографию <FONT COLOR="#0000ff">(A)</font> оценивают 4 судьи.</li>
+  <li>Исполнение <FONT COLOR="#0000ff">(E)</font>  оценивают 4 судьи. Они снимают очки за ошибки. </li> </FONT>
+  </ul> </P>
+<P ALIGN="CENTER"><FONT FACE="BOOK ANTIQUA">На любых соревнованиях обязательно присутствует судья-координатор, который следит за формальной стороной выступления. Итоговая оценка подсчитывается по формуле: <B><FONT COLOR="#FF0000">Оценка = (D1+D2)/2+A+E </FONT></B></FONT></P>
+<H2 ALIGN="CENTER">Медальный зачет на олимпийских играх</H2>
+<FONT FACE="arial"><TABLE BORDER="1" WIDTH=700 BGCOLOR="#99CCCC" ALIGN="CENTER">
+<TR BGCOLOR="#CCCCFF" ALIGN="CENTER">
+<TD>Место</TD> <TD>Страна</TD> <TD>Золото</TD> <TD>Серебро</TD> <TD>Бронза</TD> <TD>Всего</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD>1</TD> <TD>Россия</TD> <TD BGCOLOR="#F7F6A8">5</TD> <TD BGCOLOR="#DCE5E5">5</TD> <TD BGCOLOR="#FFDA89">1</TD> <TD>11</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD>2</TD> <TD>Украина</TD> <TD BGCOLOR="#F7F6A8">1</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89">4</TD> <TD>5</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD rowspan="2">3-4</TD> <TD>СССР</TD> <TD BGCOLOR="#F7F6A8">1</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89">1</TD > <TD>2</TD>
+</TR>
+<TR ALIGN="CENTER">
+ <TD>Объединённая команда</TD> <TD BGCOLOR="#F7F6A8">1</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89">1</TD> <TD>2</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD rowspan="2">5-6</TD> <TD>Канада</TD> <TD BGCOLOR="#F7F6A8">1</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89">0</TD> <TD>1</TD>
+</TR>
+<TR ALIGN="CENTER">
+ <TD>Израиль</TD> <TD BGCOLOR="#F7F6A8">1</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89"">0</TD> <TD>1</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD>7</TD> <TD>Белоруссия</TD> <TD BGCOLOR="#F7F6A8">0</TD> <TD BGCOLOR="#DCE5E5">2</TD> <TD BGCOLOR="#FFDA89">2</TD> <TD>4</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD rowspan="3">8-10</TD> <TD>Болгария</TD> <TD BGCOLOR="#F7F6A8">0</TD> <TD BGCOLOR="#DCE5E5">1</TD> <TD BGCOLOR="#FFDA89">0</TD> <TD>1</TD>
+</TR>
+<TR ALIGN="CENTER">
+ <TD>Румыния</TD> <TD BGCOLOR="#F7F6A8">0</TD> <TD BGCOLOR="#DCE5E5">1</TD> <TD BGCOLOR="#FFDA89">0</TD> <TD>1</TD>
+</TR>
+<TR ALIGN="CENTER">
+ <TD>Испания</TD> <TD BGCOLOR="#F7F6A8">0</TD> <TD BGCOLOR="#DCE5E5">1</TD> <TD BGCOLOR="#FFDA89">0</TD> <TD>1</TD>
+</TR>
+<TR ALIGN="CENTER">
+<TD>11</TD> <TD>ФРГ</TD> <TD BGCOLOR="#F7F6A8">0</TD> <TD BGCOLOR="#DCE5E5">0</TD> <TD BGCOLOR="#FFDA89">1</TD> <TD>1</TD>
+</TR>
+</TABLE></FONT>
+<P ALIGN="CENTER"> <iframe width="853" height="480" src="https://www.youtube.com/embed/Rg8iFQxREEs" title="Дина Аверина  - Лента 18.850(многоборье)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></P>
+</BODY>
+</HTML>
+
+
+
